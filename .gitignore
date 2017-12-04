@@ -1,19 +1,19 @@
 *.log
-wp-config.php
-wp-content/advanced-cache.php
-wp-content/backup-db/
-wp-content/backups/
+roundeddigital.dev/wp-config.php
+roundeddigital.dev/wp-content/advanced-cache.php
+wp-content/backup-droundeddigital.dev/b/
+roundeddigital.dev/roundeddigital.dev/wp-content/backups/
 wp-content/blogs.dir/
-wp-content/cache/
-wp-content/upgrade/
-wp-content/uploads/
-wp-content/wp-cache-config.php
-wp-content/plugins/hello.php
+roundeddigital.dev/wp-content/cache/
+roundeddigital.dev/wp-content/upgrade/
+roundeddigital.dev/wp-content/uploads/
+roundeddigital.dev/wp-content/wp-cache-config.php
+roundeddigital.dev/wp-content/plugins/hello.php
 
-/.htaccess
-/license.txt
-/readme.html
-/sitemap.xml
-/sitemap.xml.gz
+roundeddigital.dev/.htaccess
+roundeddigital.dev/license.txt
+roundeddigital.dev/readme.html
+roundeddigital.dev/sitemap.xml
+roundeddigital.dev/sitemap.xml.gz
 
-.DS_Store
+*.DS_Store

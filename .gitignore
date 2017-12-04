@@ -1,9 +1,9 @@
 *.log
 roundeddigital.dev/wp-config.php
 roundeddigital.dev/wp-content/advanced-cache.php
-wp-content/backup-droundeddigital.dev/b/
-roundeddigital.dev/roundeddigital.dev/wp-content/backups/
-wp-content/blogs.dir/
+roundeddigital.dev/wp-content/backup-db/
+roundeddigital.dev/wp-content/backups/
+roundeddigital.dev/wp-content/blogs.dir/
 roundeddigital.dev/wp-content/cache/
 roundeddigital.dev/wp-content/upgrade/
 roundeddigital.dev/wp-content/uploads/
@@ -16,4 +16,4 @@ roundeddigital.dev/readme.html
 roundeddigital.dev/sitemap.xml
 roundeddigital.dev/sitemap.xml.gz
 
-*.DS_Store
+.DS_Store

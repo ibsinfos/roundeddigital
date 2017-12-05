@@ -80,10 +80,11 @@
 
 	function openModal() {
 		if (modal) {
-			console.log("Modal Exists");
-		}
-		console.log("Open Modal");
-		modal.style.display = "block";
+			console.log("Modal exists on page");
+  		modal.style.display = "block";
+		} else {
+      console.log("Error: no modal on page");
+    }
 	}
 	span.onclick = function() {
 		modal.style.display = "none";

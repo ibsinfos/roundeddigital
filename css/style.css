@@ -225,3 +225,17 @@ MODAL: APPOINTMENT REQUEST
   background-color: #5cb85c;
   color: white;
 }
+
+/* ALL Mobile, everything less than an ipad vertical*/
+@media only screen and (max-width: 767px) {
+
+  /* ------------------------------------------------------------------- RND: Modal Mobile*/
+  .modal-content {
+    padding: 20px;
+    width: 100%;
+  }
+  .modal {
+    padding-top: unset;
+  }
+
+}
